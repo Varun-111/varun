@@ -1,2 +1,3 @@
-# varun
-This is my first repository
+# Varun
+This is my first repository.
+This is the first commit
